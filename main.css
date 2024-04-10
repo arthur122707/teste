@@ -1,3 +1,7 @@
-p {
-    font-size: x-large;
-}
+body {background-color: #FAFAFA;}
+
+
+h1{ font-size: 45px; font-family: "lucida console"; border-bottom: 10px solid #ED3237;}
+h2 {font-size: 35px; font-family: "lucida console";}
+h3 {font-size: 30px; font-family: "lucida console";}
+h4 {font-size: 30px; font-family: "lucida console";}
