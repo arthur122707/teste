@@ -5,3 +5,23 @@ h1{ font-size: 45px; font-family: "lucida console"; border-bottom: 10px solid #E
 h2 {font-size: 35px; font-family: "lucida console";}
 h3 {font-size: 30px; font-family: "lucida console";}
 h4 {font-size: 30px; font-family: "lucida console";}
+h5 {font-size: 30px; font-family: "lucida console";}
+button {display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #ED3237;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #912e2e;}
+  
+button:hover {background-color: #ED3237}
+  
+button:active {
+    background-color: #ED3237;
+    box-shadow: 0 5px #912e2e;
+    transform: translateY(4px);}
